@@ -1,0 +1,2 @@
+To update your local with the master on web, run;
+git pull origin master
